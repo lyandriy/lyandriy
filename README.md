@@ -1,7 +1,7 @@
 ### Hi there 👋
-<center>
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cli1qxyu2014608mji3krvd19/stats?cursusId=21&coalitionId=64" alt="lyandriy's 42 stats" /></a>
-</center>
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=moha991&label=Profile%20views&color=0e75b6&style=flat" alt="moha991" />
+</p>
 
 <!--
 **lyandriy/lyandriy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
