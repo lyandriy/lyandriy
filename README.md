@@ -11,7 +11,7 @@ I'm Lyudmyla, a student at [42 Madrid](https://www.42madrid.com/). I'm passionat
 ## 🚀 Projects
 
 ### Completed Projects
-- [Libft](https://github.com/lyandriy/libft) - A library of basic functions in C ![100](https://img.shields.io/badge/Score-100%2F100-brightgreen)
+- [Libft](https://github.com/lyandriy/libft) - A library of basic functions in C ![100](https://img.shields.io/badge/Score-100%-brightgreen)
 - [get_next_line](https://github.com/lyandriy/get_next_line) - Reading a line from a file descriptor
 - [Born2beroot](https://github.com/lyandriy/Born2beRoot) - System administration project
 - [ft_printf](https://github.com/lyandriy/printf) - Implementation of the printf function
