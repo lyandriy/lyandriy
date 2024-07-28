@@ -11,20 +11,19 @@ I'm Lyudmyla, a student at [42 Madrid](https://www.42madrid.com/). I'm passionat
 ## 🚀 Projects
 
 ### Completed Projects
-- [Libft](https://github.com/lyandriy/libft) - A library of basic functions in C
+- [Libft](https://github.com/lyandriy/libft) - A library of basic functions in C ![100](https://img.shields.io/badge/Score-100%2F100-brightgreen)
 - [get_next_line](https://github.com/lyandriy/get_next_line) - Reading a line from a file descriptor
+- [Born2beroot](https://github.com/lyandriy/Born2beRoot) - System administration project
 - [ft_printf](https://github.com/lyandriy/printf) - Implementation of the printf function
+- [push_swap](https://github.com/lyandriy/push_swap) - Data sorting algorithm
+- [so_long](https://github.com/lyandriy/libft) - 2D game development project
+- [pipex](https://github.com/lyandriy/pipex) - Pipeline project in C
 - [Minishell](https://github.com/lyandriy/Minishell) - Creating a minimal shell in C
 - [Philosophers](https://github.com/lyandriy/Philo) - Multithreading and synchronization project in C
-- [push_swap](https://github.com/lyandriy/push_swap) - Data sorting algorithm
-- [Born2beroot](https://github.com/lyandriy/Born2beRoot) - System administration project
-- [CPP Modules](https://github.com/lyandriy/C-Plus-Plus) - Series of modules to learn C++
 - [cub3d](https://github.com/lyandriy/Cub3D) - Basic 3D game engine in C
-- [Inception](https://github.com/lyandriy/Inception) - Virtualization and containerization project
+- [CPP Modules](https://github.com/lyandriy/C-Plus-Plus) - Series of modules to learn C++
 - [NetPractice](https://github.com/lyandriy/NetPractice) - Network configuration project
-- [pipex](https://github.com/lyandriy/pipex) - Pipeline project in C
-- [so_long](https://github.com/lyandriy/libft) - 2D game development project
-
+- [Inception](https://github.com/lyandriy/Inception) - Virtualization and containerization project
 
 ### Projects in Progress
 - [webserv](https://github.com/lyandriy/webserv) - Building a web server in C++
@@ -36,9 +35,9 @@ I'm Lyudmyla, a student at [42 Madrid](https://www.42madrid.com/). I'm passionat
 - **Other**: Linux, Bash scripting
 
 ## 🔗 Links
-- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/lyudmyla-andriychyk-fetsenets-419300242/))
+- [LinkedIn](https://www.linkedin.com/in/lyudmyla-andriychyk-fetsenets-419300242/)
 
-## 📫 Contact Me
-If you have any questions or just want to connect, feel free to message me on [GitHub](https://github.com/lyandriy) or through my social media.
+## 📫 Get in Touch
+I'm always open to new opportunities and collaborations. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/lyudmyla-andriychyk-fetsenets-419300242/). You can also check out my work and get in touch through [GitHub](https://github.com/lyandriy).
 
 Thanks for visiting my profile!
