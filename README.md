@@ -1,11 +1,4 @@
 ### Hi there 👋
-
-<table><tr><td align="center" width="50%">
- 
-![github-stats][github-stats]
-
-</td><td align="center" width="50%">
-
-![lang-statistics][lang-statistics]
-
-</td></tr></table>  
+<a href="https://github.com/lyandriy" style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
+	<img align="top" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lyandriy&layout=compact&theme=highcontrast" />
+</a> 
