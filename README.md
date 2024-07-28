@@ -12,21 +12,21 @@ I'm Lyudmyla, a student at [42 Madrid](https://www.42madrid.com/). I'm passionat
 
 ### Completed Projects
 
-| Project | Description | Score |
-| --- | --- | --- |
-| [Libft](https://github.com/lyandriy/libft) | A library of basic functions in C | ![100](https://img.shields.io/badge/Score-100-brightgreen) |
-| [get_next_line](https://github.com/lyandriy/get_next_line) | Reading a line from a file descriptor | ![125](https://img.shields.io/badge/Score-125-brightgreen) |
-| [Born2beroot](https://github.com/lyandriy/Born2beRoot) | System administration project | ![120](https://img.shields.io/badge/Score-120-brightgreen) |
-| [ft_printf](https://github.com/lyandriy/printf) | Implementation of the printf function | ![100](https://img.shields.io/badge/Score-100-brightgreen) |
-| [push_swap](https://github.com/lyandriy/push_swap) | Data sorting algorithm | ![86](https://img.shields.io/badge/Score-86-brightgreen) |
-| [so_long](https://github.com/lyandriy/so_long) | 2D game development project | ![125](https://img.shields.io/badge/Score-125-brightgreen) |
-| [pipex](https://github.com/lyandriy/pipex) | Pipeline project in C | ![125](https://img.shields.io/badge/Score-125-brightgreen) |
-| [Minishell](https://github.com/lyandriy/Minishell) | Creating a minimal shell in C | ![95](https://img.shields.io/badge/Score-95-brightgreen) |
-| [Philosophers](https://github.com/lyandriy/Philo) | Multithreading and synchronization project in C | ![100](https://img.shields.io/badge/Score-100-brightgreen) |
-| [cub3d](https://github.com/lyandriy/Cub3D) | Basic 3D game engine in C | ![116](https://img.shields.io/badge/Score-116-brightgreen) |
-| [CPP Modules](https://github.com/lyandriy/C-Plus-Plus) | Series of modules to learn C++ | ![100](https://img.shields.io/badge/Score-100-brightgreen) |
-| [NetPractice](https://github.com/lyandriy/NetPractice) | Network configuration project | ![100](https://img.shields.io/badge/Score-100-brightgreen) |
-| [Inception](https://github.com/lyandriy/Inception) | Virtualization and containerization project | ![100](https://img.shields.io/badge/Score-100-brightgreen) |
+| Project | Description |
+| --- | --- |
+| [Libft](https://github.com/lyandriy/libft) | A library of basic functions in C |
+| [get_next_line](https://github.com/lyandriy/get_next_line) | Reading a line from a file descriptor |
+| [Born2beroot](https://github.com/lyandriy/Born2beRoot) | System administration project |
+| [ft_printf](https://github.com/lyandriy/printf) | Implementation of the printf function |
+| [push_swap](https://github.com/lyandriy/push_swap) | Data sorting algorithm |
+| [so_long](https://github.com/lyandriy/so_long) | 2D game development project |
+| [pipex](https://github.com/lyandriy/pipex) | Pipeline project in C |
+| [Minishell](https://github.com/lyandriy/Minishell) | Creating a minimal shell in C |
+| [Philosophers](https://github.com/lyandriy/Philo) | Multithreading and synchronization project in C |
+| [cub3d](https://github.com/lyandriy/Cub3D) | Basic 3D game engine in C |
+| [CPP Modules](https://github.com/lyandriy/C-Plus-Plus) | Series of modules to learn C++ |
+| [NetPractice](https://github.com/lyandriy/NetPractice) | Network configuration project |
+| [Inception](https://github.com/lyandriy/Inception) | Virtualization and containerization project |
 
 ### Projects in Progress
 - [webserv](https://github.com/lyandriy/webserv) - Building a web server in C++
