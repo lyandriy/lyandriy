@@ -27,9 +27,10 @@ I'm Lyudmyla, a student at [42 Madrid](https://www.42madrid.com/). I'm passionat
 | [CPP Modules](https://github.com/lyandriy/C-Plus-Plus) | Series of modules to learn C++ |
 | [NetPractice](https://github.com/lyandriy/NetPractice) | Network configuration project |
 | [Inception](https://github.com/lyandriy/Inception) | Virtualization and containerization project |
+| [Webserv](https://github.com/lyandriy/webserv) |  Building a web server in C++ |
 
 ### Projects in Progress
-- [webserv](https://github.com/lyandriy/webserv) - Building a web server in C++
+- [ft_transcendence]() - This project is about creating a website for the mighty Pong contest!
 
 ## 📚 Skills
 - **Programming Languages**: C, C++
