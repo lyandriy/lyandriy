@@ -30,7 +30,7 @@ I'm Lyudmyla, a student at [42 Madrid](https://www.42madrid.com/). I'm passionat
 | [Webserv](https://github.com/lyandriy/webserv) |  Building a web server in C++ |
 
 ### Projects in Progress
-- [ft_transcendence]() - This project is about creating a website for the mighty Pong contest!
+- [ft_transcendence](https://github.com/isromero/trascendence) - This project is about creating a website for the mighty Pong contest!
 
 ## 📚 Skills
 - **Programming Languages**: C, C++
