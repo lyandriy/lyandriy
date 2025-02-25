@@ -27,7 +27,8 @@ I'm Lyudmyla, a student at [42 Madrid](https://www.42madrid.com/). I'm passionat
 | [CPP Modules](https://github.com/lyandriy/C-Plus-Plus) | Series of modules to learn C++ |
 | [NetPractice](https://github.com/lyandriy/NetPractice) | Network configuration project |
 | [Inception](https://github.com/lyandriy/Inception) | Virtualization and containerization project |
-| [Webserv](https://github.com/lyandriy/webserv) |  Building a web server in C++ |
+| [Webserv](https://github.com/lyandriy/webserv) | Building a web server in C++ |
+| [Python-Piscine-42](https://github.com/lyandriy/Python-Piscine-42) | This is Python Piscine(Bootcamp) created by the Paris-based student organization 42AI |
 
 ### Projects in Progress
 - [ft_transcendence](https://github.com/isromero/trascendence) - This project is about creating a website for the mighty Pong contest!
