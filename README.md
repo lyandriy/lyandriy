@@ -28,16 +28,16 @@ I'm Lyudmyla, a student at [42 Madrid](https://www.42madrid.com/). I'm passionat
 | [NetPractice](https://github.com/lyandriy/NetPractice) | Network configuration project |
 | [Inception](https://github.com/lyandriy/Inception) | Virtualization and containerization project |
 | [Webserv](https://github.com/lyandriy/webserv) | Building a web server in C++ |
-| [Python-Piscine-42](https://github.com/lyandriy/Python-Piscine-42) | This is Python Piscine(Bootcamp) created by the Paris-based student organization 42AI |
 
 ### Projects in Progress
 - [ft_transcendence](https://github.com/isromero/trascendence) - This project is about creating a website for the mighty Pong contest!
+- | [Python-Piscine-42](https://github.com/lyandriy/Python-Piscine-42) | This is Python Piscine(Bootcamp) created by the Paris-based student organization 42AI |
 
 ## 📚 Skills
-- **Programming Languages**: C, C++
-- **Containers**: Docker
+- **Programming Languages**: C, C++, Python
+- **Containers**: Docker, Docker Compose
 - **Development Tools**: Git, Visual Studio Code, GCC, Makefile
-- **Other**: Linux, Bash scripting
+- **Other**: Django, Linux, Bash scripting
 
 ## 🔗 Links
 - [LinkedIn](https://www.linkedin.com/in/lyudmyla-andriychyk-fetsenets-419300242/)
