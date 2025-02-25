@@ -31,7 +31,7 @@ I'm Lyudmyla, a student at [42 Madrid](https://www.42madrid.com/). I'm passionat
 
 ### Projects in Progress
 - [ft_transcendence](https://github.com/isromero/trascendence) - This project is about creating a website for the mighty Pong contest!
-- | [Python-Piscine-42](https://github.com/lyandriy/Python-Piscine-42) | This is Python Piscine(Bootcamp) created by the Paris-based student organization 42AI |
+- [Python-Piscine-42](https://github.com/lyandriy/Python-Piscine-42) This is Python Piscine(Bootcamp) created by the Paris-based student organization 42AI |
 
 ## 📚 Skills
 - **Programming Languages**: C, C++, Python
