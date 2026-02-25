@@ -28,10 +28,12 @@ I'm Lyudmyla, a student at [42 Madrid](https://www.42madrid.com/). I'm passionat
 | [NetPractice](https://github.com/lyandriy/NetPractice) | Network configuration project |
 | [Inception](https://github.com/lyandriy/Inception) | Virtualization and containerization project |
 | [Webserv](https://github.com/lyandriy/webserv) | Building a web server in C++ |
+| [ft_transcendence](https://github.com/isromero/trascendence) | This project is about creating a website for the mighty Pong contest! |
+| [libasm](https://github.com/lyandriy/libasm) | The aim of this project is to become familiar with assembly language |
 
 ### Projects in Progress
-- [ft_transcendence](https://github.com/isromero/trascendence) - This project is about creating a website for the mighty Pong contest!
-- [Python-Piscine-42](https://github.com/lyandriy/Python-Piscine-42) This is Python Piscine(Bootcamp) created by the Paris-based student organization 42AI |
+- [t_ping](https://github.com/lyandriy/ft_ping) - This project is about recoding the ping command.
+- [Inception-of-Things](https://github.com/lyandriy/Inception-of-Things) This project aims to deepen knowledge by making you use K3d and K3s with Vagrant. |
 
 ## 📚 Skills
 - **Programming Languages**: C, C++, Python
