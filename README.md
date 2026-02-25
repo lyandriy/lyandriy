@@ -26,7 +26,7 @@ I'm Lyudmyla, a student at [42 Madrid](https://www.42madrid.com/). I'm passionat
 | [libasm](https://github.com/lyandriy/libasm) | The aim of this project is to become familiar with assembly language |
 
 ### Projects in Progress
-- [t_ping](https://github.com/lyandriy/ft_ping) - This project is about recoding the ping command.
+- [ft_ping](https://github.com/lyandriy/ft_ping) - This project is about recoding the ping command.
 - [Inception-of-Things](https://github.com/lyandriy/Inception-of-Things) This project aims to deepen knowledge by making you use K3d and K3s with Vagrant. |
 
 ## 📚 Skills
