@@ -2,12 +2,6 @@
 
 I'm Lyudmyla, a student at [42 Madrid](https://www.42madrid.com/). I'm passionate about programming and constantly improving my skills. Here you can find some of the projects I've worked on and follow my progress in the course.
 
-## 📊 GitHub Stats
-
-<a href="https://github.com/lyandriy" style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
-  <img align="top" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lyandriy&layout=compact&theme=highcontrast" />
-</a>
-
 ## 🚀 Projects
 
 ### Completed Projects
